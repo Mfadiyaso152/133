@@ -1,0 +1,6 @@
+{
+  "name": "Clipboard Box",
+  "description": "أداة سريعة لكتابة النصوص والأرقام مع فواصل ونسخها فوراً عند الضغط على Enter بتصميم أسود لامع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
